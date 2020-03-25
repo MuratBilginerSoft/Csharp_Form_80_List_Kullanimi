@@ -1,0 +1,14 @@
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\bin\Debug\List Kullanımı v1.0.exe
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\bin\Debug\List Kullanımı v1.0.pdb
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\obj\x86\Debug\List_Kullanımı_v1._0.Form1.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\obj\x86\Debug\List_Kullanımı_v1._0.Properties.Resources.resources
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\obj\x86\Debug\List Kullanımı v1.0.csproj.GenerateResource.Cache
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\obj\x86\Debug\List Kullanımı v1.0.exe
+C:\Users\mrt_b\Desktop\Blog\6 Çalışmalar\List Kullanımı v1.0\List Kullanımı v1.0\obj\x86\Debug\List Kullanımı v1.0.pdb
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\obj\x86\Debug\List Kullanımı v1.0.exe
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\obj\x86\Debug\List Kullanımı v1.0.pdb
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\bin\Debug\List Kullanımı v1.0.exe
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\bin\Debug\List Kullanımı v1.0.pdb
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\obj\x86\Debug\List_Kullanımı_v1._0.Form1.resources
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\obj\x86\Debug\List_Kullanımı_v1._0.Properties.Resources.resources
+E:\04 - Yazılım\04 - Form Projeleri\42 List Kullanımı V1.0\List Kullanımı v1.0\obj\x86\Debug\List Kullanımı v1.0.csproj.GenerateResource.Cache
